@@ -1,0 +1,38 @@
+
+html {
+  color: orange;
+  background-color:black;
+  margin: 50px;
+}
+
+#interactiveBuild {
+    margin: 40px;
+}
+
+section {
+  border: 1px solid white;
+  margin: 40px 0;
+  width: auto;
+  padding: 30px;
+}
+
+h2 {
+  margin-top: 0px;
+}
+
+row {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+column {
+    height: 100%;
+    border-bottom: 5px solid black;
+    border: 1px solid orange;
+    padding: 0 10px;
+}
+
+.rightAnswer {
+  border: 3px solid #00FF99;
+}
